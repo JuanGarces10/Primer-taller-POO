@@ -1,0 +1,3 @@
+interface Afinable {
+    void afinar();
+}
